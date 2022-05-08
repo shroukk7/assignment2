@@ -1,0 +1,1 @@
+see which letter it is in cipheralpha by index and put the letter in encrypt
